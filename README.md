@@ -19,22 +19,22 @@
 
 ### 🚀 Первый запуск и автоматическая настройка окружения
 <div align="center">
-  <img src="demo_first_run.gif" alt="Первый запуск" width="80%">
+  <img src="gif/demo_first_run.gif" alt="Первый запуск" width="80%">
 </div>
 
 ### 🖥️ Локальный инференс
 <div align="center">
-  <img src="demo_local_inference.gif" alt="Локальный инференс" width="80%">
+  <img src="gif/demo_local_inference.gif" alt="Локальный инференс" width="80%">
 </div>
 
 ### 🌐 Инференс через API (render.com)
 <div align="center">
-  <img src="demo_api_inference.gif" alt="API инференс" width="80%">
+  <img src="gif/demo_api_inference.gif" alt="API инференс" width="80%">
 </div>
 
 ### 🏠 Локальный бэкенд
 <div align="center">
-  <img src="demo_local_backend.gif" alt="Локальный бэкенд" width="80%">
+  <img src="gif/demo_local_backend.gif" alt="Локальный бэкенд" width="80%">
 </div>
 
 ## ✨ Возможности
